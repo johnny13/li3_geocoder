@@ -1,4 +1,4 @@
-# Markdown parser for [Lithium PHP](http://lithify.me)
+# Geocoder Library for [Lithium PHP](http://lithify.me)
 
 I forked this library in order to add better lithium support.
 
