@@ -1,19 +1,19 @@
 {
-	"name": "blainesch/li3_geocoder",
+	"name": "johnny13/li3_geocoder",
 	"type": "lithium-library",
 	"description": "Lithium data source for use with 'willdurand/geocoder'.",
-	"keywords": ["geo", "geolocation", "lookup"],
-	"homepage": "https://github.com/BlaineSch/li3_geolocation",
+	"keywords": ["geo", "geolocation", "lookup", "li3", "lithium", "php", "willdurand", "geocoder"],
+	"homepage": "https://github.com/johnny13/li3_geocoder",
 	"license": "MIT License",
 	"authors": [
 		{
-			"name": "Blaine Schmeisser",
-			"email": "BlaineSch@gmail.com",
-			"homepage": "http://github.com/BlaineSch"
+			"name": "Derek Scott",
+			"email": "derek@huement.com",
+			"homepage": "http://github.com/johnny13"
 		}
 	],
 	"require": {
-		"willdurand/geocoder": "dev-master",
+		"willdurand/geocoder": ">2.8.0",
 		"php": ">=5.3",
 		"composer/installers": "*"
 	}
